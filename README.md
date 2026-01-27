@@ -5,21 +5,21 @@ Code:
 # 🚀 Space Mission: Alien Contact Program 👽
 ```
 def alien_conversation():
-    alien1 = "ZoroX"
-    alien2 = "LumiA"
+    Traveller1 = "ZORATHRON"
+    Traveller2 = "LUMIAS"
 
-    print("📡 Connecting to Space Channel...\n")
+    print(" ......Connecting to Space Channel...........\n")
 
-    print(alien1, ": Hello? Is anyone out there?")
-    print(alien2, ": Yes! I hear you. Who are you?")
+    print(Traveller1 , ": Hello? Is anyone out there?")
+    print(Traveller2 , ": Yes! I hear you. Who are you?")
 
-    print(alien1, ": I am", alien1, "from Planet Orion.")
-    print(alien2, ": Wow! I'm", alien2, "from Planet Nova.")
+    print(Traveller1 , ": I am", alien1, "from Planet Orion.")
+    print(Traveller2 , ": Wow! I'm", alien2, "from Planet Nova.")
 
-    print("\n🌟 Scanning Life Forms... Complete!")
+    print("\n Scanning Life Forms... Complete!")
 
-    print(alien1, ": Do you come in peace?")
-    print(alien2, ": Always. Let's explore the universe together!")
+    print(Traveller1, ": Do you come in peace?")
+    print(Traveller2, ": Always. Let's explore the universe together!")
 
     print("\n🚀 Mission Status: FRIENDSHIP ESTABLISHED ✅")
 ```
