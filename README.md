@@ -50,7 +50,7 @@ int main() {
 
 ```
 
-
+recievers coordinates - 23-kj-56-85
 
 
 
