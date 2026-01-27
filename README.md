@@ -34,4 +34,5 @@ alien_conversation()
 
 --------------------------------
 scan done - Oscillator working
+battery left 2/3 space craft 
 
